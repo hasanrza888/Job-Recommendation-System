@@ -31,5 +31,5 @@ The system analyzes the textual content of a resume using NLP techniques and rec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/job-recommendation-system.git
+   git clone https://github.com/hasanrza888/Job-Recommendation-System.git
    cd job-recommendation-system
